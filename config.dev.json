@@ -35,7 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100005193854879"
+    "61557606879019"
   ],
   "whiteListMode": {
     "enable": false,
@@ -44,13 +44,13 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯ツ",
-  "prefix": "?",
-  "BaYjidapi": "https://bayjid-hd.onrender.com",
+  "nickNameBot": "PRINCESS ❣️",
+  "prefix": "-",
+  "BaYjidapi": "",
   "api": "",
   "api2": "",
   "api3": "",
-  "authorName": "𝐁𝐀𝐘𝐉𝐈𝐃-৬T৯🤡",
+  "authorName": "NCS PRO",
   "facebook2": "https://www.facebook.com/BAYJID.404",
   "facebook": "https://www.facebook.com/BAYJID.404",
   "email": "ewrbiju@gmail.com",
@@ -58,7 +58,7 @@
   "github": "https://github.com/BAYJID404",
   "insta": "mr_bayjid120",
   "age": "17+",
-  "TG": "@MOHAMMADBAYJID",
+  "TG": "NCS ✴️",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
